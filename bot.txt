@@ -1,0 +1,5 @@
+{
+	"ip":"danger7890",
+	"port": "30641",
+	"name": "afkbot"
+}
